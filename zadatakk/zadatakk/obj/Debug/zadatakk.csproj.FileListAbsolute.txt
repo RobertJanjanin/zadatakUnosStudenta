@@ -1,0 +1,11 @@
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\bin\Debug\zadatakk.exe.config
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\bin\Debug\zadatakk.exe
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\bin\Debug\zadatakk.pdb
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.csprojAssemblyReference.cache
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.Properties.Resources.resources
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.Studenti.resources
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.UnosNovogStudenta.resources
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.csproj.GenerateResource.cache
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.exe
+C:\Users\Učenik 8\source\repos\zadatakk\zadatakk\obj\Debug\zadatakk.pdb
